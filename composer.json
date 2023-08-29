@@ -23,7 +23,7 @@
         "symfony/console": "^4.4",
         "symfony/event-dispatcher": "^4.4",
         "symfony/filesystem": "~5.4 || ~6.0",
-        "symfony/validator": "~5.4 || ~6.0"
+        "symfony/validator": "^4.4"
     },
     "require-dev": {
         "guzzlehttp/guzzle": "^7.5.0",
