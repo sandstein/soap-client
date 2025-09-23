@@ -16,14 +16,14 @@
         "azjezz/psl": "^2.1",
         "laminas/laminas-code": "^4.5.2",
         "php-soap/engine": "^1.3",
-        "php-soap/ext-soap-engine": "dev-magento2",
-        "php-soap/psr18-transport": "dev-magento2",
+        "php-soap/ext-soap-engine": "^1.4",
+        "php-soap/psr18-transport": "^1.3",
         "psr/event-dispatcher": "^1.0",
         "psr/log": "^1.0 || ^2.0 || ^3.0",
-        "symfony/console": "^4.4",
-        "symfony/event-dispatcher": "^4.4",
+        "symfony/console": "~5.4 || ~6.0",
+        "symfony/event-dispatcher": "~5.4 || ~6.0",
         "symfony/filesystem": "~5.4 || ~6.0",
-        "symfony/validator": "^4.4"
+        "symfony/validator": "~5.4 || ~6.0"
     },
     "require-dev": {
         "guzzlehttp/guzzle": "^7.5.0",
